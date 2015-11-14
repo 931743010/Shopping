@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  吃喝玩乐—尽享生活
+//
+//  Created by mac on 15/10/12.
+//  Copyright (c) 2015年 mac. All rights reserved.
+//
+
+#ifndef __________PrefixHeader_pch
+#define __________PrefixHeader_pch
+
+#import "Commen.h"
+
+#endif
